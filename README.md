@@ -2,41 +2,42 @@
 
 Padhle is an AI-powered study assistant designed to help students learn faster and prepare effectively for exams.
 
-## ✨ Features
+## 🚀 Features
 
 - 📄 Upload or paste study material
 - 📝 Generate easy-to-understand summaries
 - 🔑 Extract important key points
 - ❓ Generate Multiple Choice Questions (MCQs)
-- 🎤 Generate viva questions and answers
-- 🌐 Supports English, Hindi, and Hinglish
-- 🎯 Exam-focused study assistance
-- 📚 Helps students revise their study material quickly
+- 🎤 Generate viva questions
+- 🌐 Support for English, Hindi and Hinglish
+- 📱 Simple and student-friendly interface
 
 ## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- AI-powered study assistance
+- AI / LLM integration
+- PDF.js
+
+## 🌐 Live Demo
+
+[Try Padhle – AI Study Assistant](https://nidhirathod21.github.io/Padhle-study-assistant-/)
 
 ## 🎯 Purpose
 
-The goal of Padhle is to make studying simpler and more interactive by converting lengthy study material into useful summaries, key points, MCQs, and viva questions.
+The project aims to make exam preparation easier by helping students understand study material, revise important concepts and practice questions using AI.
 
-## 🚀 Future Improvements
+## 🔮 Future Improvements
 
-- AI API integration
 - Personalized study plans
 - Progress tracking
-- User accounts
-- More exam categories
-- Improved multilingual support
+- More AI-powered learning tools
+- User accounts and saved study materials
+- Improved mobile experience
 
 ## 👩‍💻 Developer
 
 **Nidhi Rathod**
 
-B.Tech Computer Science & Engineering
-
-Interested in Python, AI/ML and Software Development.
+B.Tech Computer Science Engineering Student
